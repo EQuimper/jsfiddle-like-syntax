@@ -2,13 +2,14 @@
   "name": "jsfiddle-like-syntax",
   "author": "EQuimper",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A color schema with the look of the JsFiddle theme with some tweek",
   "keywords": [
     "syntax",
     "theme",
     "jsfiddle",
-    "light"
+    "light",
+    "javascript"
   ],
   "repository": "https://github.com/EQuimper/jsfiddle-like-syntax",
   "license": "MIT",
