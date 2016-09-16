@@ -2,7 +2,7 @@
   "name": "jsfiddle-like-syntax",
   "author": "EQuimper",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A color schema with the look of the JsFiddle theme with some tweek",
   "keywords": [
     "syntax",
