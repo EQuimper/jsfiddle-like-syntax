@@ -1,6 +1,8 @@
 # jsfiddle-like-syntax theme
 
-A syntax like the one on JsFiddle with some tweek.
+A syntax like the one on JsFiddle with some tweak for Atom.
+
+https://atom.io/packages/jsfiddle-like-syntax
 
 Work well for:
 
