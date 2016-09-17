@@ -81,10 +81,13 @@ atom-text-editor::shadow  .bracket-matcher .region {
 
   &.control {
     color: @purple;
+    font-style: italic;
+    font-weight: bold;
   }
 
   &.operator {
     color: @operator;
+    font-weight: bolder;
   }
 
   &.other.special-method {
@@ -102,10 +105,22 @@ atom-text-editor::shadow  .bracket-matcher .region {
 
 .storage {
   color: @purple;
+  font-weight: bolder;
 }
 
 .constant {
   color: @orange;
+
+  &.language {
+    &.boolean {
+      &.false {
+        &.js {
+          color: darken(@purple, 20%);
+          font-weight: bolder;
+        }
+      }
+    }
+  }
 
   &.character.escape {
     color: @cyan;
@@ -159,6 +174,7 @@ atom-text-editor::shadow  .bracket-matcher .region {
 
       &.js {
         color: @orange;
+        font-weight: bolder;
       }
 
     }
@@ -244,11 +260,10 @@ atom-text-editor::shadow  .bracket-matcher .region {
 
   &.definition {
     &.tag {
-
       &.jsx {
         color: @gray;
+        font-weight: bolder;
       }
-
     }
     &.comment {
       color: @light-gray;
@@ -273,6 +288,7 @@ atom-text-editor::shadow  .bracket-matcher .region {
     &.parameters,
     &.array {
       color: @gray;
+      font-weight: bolder;
     }
 
     &.heading,
@@ -301,21 +317,25 @@ atom-text-editor::shadow  .bracket-matcher .region {
 
   &.section.embedded {
     color: darken(@red, 10%);
+    font-weight: bolder;
   }
 
 }
 
 .support {
   &.class {
+    font-weight: bolder;
     color: @orange;
-
-    &.component.open.jsx {
-      color: @blue
-    }
   }
 
   &.function  {
     color: @cyan;
+
+    &.mutator {
+      &.js {
+        color: @red;
+      }
+    }
 
     &.any-method {
       color: @blue;
@@ -347,6 +367,7 @@ atom-text-editor::shadow  .bracket-matcher .region {
 
   &.name.function {
     color: @orange;
+    font-weight: bolder;
 
     &.method {
 
@@ -476,6 +497,7 @@ atom-text-editor::shadow  .bracket-matcher .region {
 
       &.js {
         color: @gray;
+        font-weight: bolder;
       }
 
     }
