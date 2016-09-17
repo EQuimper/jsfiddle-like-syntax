@@ -88,6 +88,7 @@ atom-text-editor::shadow  .bracket-matcher .region {
   &.operator {
     color: @operator;
     font-weight: bolder;
+    margin: 0 3px;
   }
 
   &.other.special-method {
@@ -128,6 +129,10 @@ atom-text-editor::shadow  .bracket-matcher .region {
 
   &.numeric {
     color: @red;
+
+    &.css {
+      font-weight: bolder;
+    }
 
     &.js {
       color: @red;
@@ -329,7 +334,7 @@ atom-text-editor::shadow  .bracket-matcher .region {
   }
 
   &.function  {
-    color: @cyan;
+    color: @green;
 
     &.mutator {
       &.js {
@@ -356,6 +361,8 @@ atom-text-editor::shadow  .bracket-matcher .region {
 
       &.css {
         color: @dark-blue;
+        font-weight: bolder;
+        font-style: italic;
       }
 
     }
@@ -380,6 +387,7 @@ atom-text-editor::shadow  .bracket-matcher .region {
 
   &.other {
     &.attribute-name {
+      font-weight: bolder;
       &.id {
         &.html {
           color: @orange;
@@ -505,6 +513,8 @@ atom-text-editor::shadow  .bracket-matcher .region {
     &.round {
 
       &.js {
+        font-weight: bolder;
+        margin: 0 3px;
         color: @gray;
       }
 
