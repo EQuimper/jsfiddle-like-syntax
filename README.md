@@ -4,15 +4,24 @@ A syntax like the one on JsFiddle with some tweak for Atom.
 
 https://atom.io/packages/jsfiddle-like-syntax
 
-Work well for:
-
-  - Babel
+## Languages Supported
+  - Babel ES6 JavaScript
   - Html
   - CSS
+---
 
 ## Recommandations
-- Font-Family reccomend: *Inconsolata*
-- Ui: *Native-Ui*
+
+#### Font-Family
+- [*Inconsolata*](http://levien.com/type/myfonts/inconsolata.html)
+
+#### Ui
+- [*Native-Ui*](https://atom.io/themes/native-ui)
+- [*Slack-Ui*](https://atom.io/themes/slack-ui)
+
+---
+
+## Photos
 
 ### JS Babel
 ![Babel](http://image.prntscr.com/image/dcb15aef7a9f485f9f3050247454a587.png)
@@ -23,4 +32,5 @@ Work well for:
 ### Css
 ![CSS](http://image.prntscr.com/image/652a18aabb0d4c7ca44d8995eb788b1f.png)
 
-Don't hesitate to make issues or request.
+
+**Don't hesitate to make issues or request.**
