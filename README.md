@@ -8,6 +8,7 @@ https://atom.io/packages/jsfiddle-like-syntax
   - Babel ES6 JavaScript
   - Html
   - CSS
+
 ---
 
 ## Recommandations
@@ -32,5 +33,6 @@ https://atom.io/packages/jsfiddle-like-syntax
 ### Css
 ![CSS](http://image.prntscr.com/image/652a18aabb0d4c7ca44d8995eb788b1f.png)
 
+---
 
 **Don't hesitate to make issues or request.**
