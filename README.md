@@ -26,11 +26,8 @@ https://atom.io/packages/jsfiddle-like-syntax
 
 ## Photos
 
-### JS Babel
-![Babel](http://image.prntscr.com/image/dcb15aef7a9f485f9f3050247454a587.png)
-
 ### JS Babel with FiraCode
-![Babel with FiraCode](http://image.prntscr.com/image/1e37ec0d414d4748929fcdec12d22296.png)
+![Babel](http://image.prntscr.com/image/3f01a5a304e54b318a8cf813078dadc1.png)
 
 ### Html
 ![Html](http://image.prntscr.com/image/7814db35cd01470cb4f890a24485f34a.png)

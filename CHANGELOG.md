@@ -20,5 +20,6 @@
 ## [0.2.4] - 2016-09-17
 ### Fixed
 - Problem with FiraCode, add margin.
+
 ### Added
 - Font-weight in css.
