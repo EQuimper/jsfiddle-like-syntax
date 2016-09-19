@@ -23,3 +23,10 @@
 
 ### Added
 - Font-weight in css.
+
+## [0.2.5] - 2016-09-19
+### Fixed
+- Mardown
+
+### Added
+- New photo
