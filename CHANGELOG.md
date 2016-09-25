@@ -30,3 +30,7 @@
 
 ### Added
 - New photo
+
+## [0.2.6] - 2016-09-25
+### Removed
+- font-weight bold on bracket

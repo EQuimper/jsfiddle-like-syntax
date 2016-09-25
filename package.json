@@ -3,13 +3,14 @@
   "author": "EQuimper",
   "theme": "syntax",
   "version": "0.2.5",
-  "description": "A color schema with the look of the JsFiddle theme with some tweek",
+  "description": "A color schema with the look of the JsFiddle theme with some tweak",
   "keywords": [
     "syntax",
     "theme",
     "jsfiddle",
     "light",
-    "javascript"
+    "javascript",
+    "markdown"
   ],
   "repository": "https://github.com/EQuimper/jsfiddle-like-syntax",
   "license": "MIT",

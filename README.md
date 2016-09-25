@@ -8,6 +8,8 @@ https://atom.io/packages/jsfiddle-like-syntax
   - Babel ES6 JavaScript
   - Html
   - CSS
+  - Less
+  - Markdown
 
 ---
 
