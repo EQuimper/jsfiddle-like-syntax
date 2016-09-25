@@ -34,3 +34,8 @@
 ## [0.2.6] - 2016-09-25
 ### Removed
 - font-weight bold on bracket
+
+## [0.2.7] - 2016-09-25
+### Removed
+- bold on last bracket
+- margin on ()
