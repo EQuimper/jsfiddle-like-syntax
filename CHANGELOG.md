@@ -45,6 +45,9 @@
 - margin on operator
 
 ### Added
-- text-decoration underline on module
 - font-weight on import constant
 - hyperlink add underline and italic
+
+## [0.2.9] - 2016-09-25
+### Added
+- text-decoration underline on module
