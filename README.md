@@ -29,11 +29,8 @@ https://atom.io/packages/jsfiddle-like-syntax
 
 ## Photos
 
-### JS Babel with Consolas Font
-![Babel](http://image.prntscr.com/image/5423516e4ffd4e6e9de98fdec6a3f196.png)
-
-### JS Babel text hightlight
-![](http://image.prntscr.com/image/5248bb42c1424d4ea8b1dff8fe0c1329.png)
+### JS Babel
+![Babel](http://image.prntscr.com/image/e9c0e9a5fefe4e1ca25cd077077179a4.png)
 
 ### Html
 ![Html](http://image.prntscr.com/image/7814db35cd01470cb4f890a24485f34a.png)

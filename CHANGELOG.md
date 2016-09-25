@@ -51,3 +51,8 @@
 ## [0.2.9] - 2016-09-25
 ### Added
 - text-decoration underline on module
+
+## [0.2.10] - 2016-09-25
+### Fixed
+- bug with color on JSXNested
+- new photo on the readme
