@@ -26,7 +26,7 @@
 
 ## [0.2.5] - 2016-09-19
 ### Fixed
-- Mardown
+- Markdown
 
 ### Added
 - New photo
@@ -39,3 +39,12 @@
 ### Removed
 - bold on last bracket
 - margin on ()
+
+## [0.2.8] - 2016-09-25
+### Removed
+- margin on operator
+
+### Added
+- text-decoration underline on module
+- font-weight on import constant
+- hyperlink add underline and italic

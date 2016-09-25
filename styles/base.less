@@ -121,7 +121,6 @@ atom-text-editor::shadow  .bracket-matcher .region {
   &.operator {
     color: @operator;
     font-weight: bolder;
-    margin: 0 3px;
   }
 
   &.other.special-method {
@@ -217,6 +216,12 @@ atom-text-editor::shadow  .bracket-matcher .region {
 
     }
 
+    &.constant {
+      &.js {
+        font-weight: bolder;
+      }
+    }
+
     &.class {
       &.js {
         color: @blue;
@@ -252,6 +257,14 @@ atom-text-editor::shadow  .bracket-matcher .region {
 
 .string {
   color: @green;
+
+  &.quoted {
+    &.module {
+      .js {
+        text-decoration: underline;
+      }
+    }
+  }
 
   &.regexp {
     color: @cyan;
@@ -614,6 +627,17 @@ atom-text-editor::shadow  .bracket-matcher .region {
 
   &.raw.inline {
     color: @green;
+  }
+
+  &.underline {
+    &.link {
+      &.http {
+        &.hyperlink {
+          font-style: italic;
+          text-decoration: underline;
+        }
+      }
+    }
   }
 }
 
